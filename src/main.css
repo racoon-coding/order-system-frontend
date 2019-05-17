@@ -1,0 +1,13 @@
+#content {
+  font-size: 2rem;
+  background-color: blanchedalmond;
+  text-align: center;
+  padding: 15px 0 15px 0;
+  width: 20%;
+  margin: 0 auto;
+}
+div:nth-child(2) {
+  font-size: 1.5em;
+  text-align: center;
+  padding: 20px 0 0 0;
+}
